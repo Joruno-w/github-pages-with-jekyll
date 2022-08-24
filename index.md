@@ -1,3 +1,5 @@
-# Hello，大家好，我是joruno
+---
+title: "Welcome to my blog"
+---
 
 I'm glad you are here. I plan to talk about ...
